@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Ahmed Mohsen Elmehalawi</h1>
-<h3 align="center">A Senior Student of Computer and Systems Engineering, passionate about Technology and Software Engineering, so I'm trying to get more and more in order to make our world better through my passion and at that moment I’m focusing on <br> Web Development, Flutter Web Development and AI.</h3>
+<h3 align="center">A Senior Student of Computer and Systems Engineering, passionate about Technology and Software Engineering, so I'm trying to get more and more in order to make our world better through my passion and at that moment I’m focusing on <br> Web Development, Flutter Development and AI.</h3>
 
 - 📫 How to reach me **ahmedelmehalawi00@gmail.com**
 
