@@ -1,5 +1,7 @@
 <h1 align="center">Hi 👋, I'm Ahmed Mohsen Elmehalawi</h1>
-<h3 align="center">A Senior Student of Computer and Systems Engineering, passionate about Technology and Software Engineering, so I'm trying to get more and more in order to make our world better through my passion and at that moment I’m focusing on <br> Web Development, Flutter Development and AI.</h3>
+<h3 align="center">A Software Engineer with many hats especially in Web Development and Flutter Development.<br> Passionate about Technology and Software Engineering with Operations and Management as well as Marketing experience.</h3>
+
+- 🔭 I’m a Senior CSE Student at **Zagazig University**
 
 - 📫 How to reach me **ahmedelmehalawi00@gmail.com**
 
