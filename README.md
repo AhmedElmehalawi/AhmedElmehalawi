@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Ahmed Mohsen Elmehalawi</h1>
 <h3 align="center">A Software Engineer with many hats especially in Web Development, Flutter Development and Data Analysis.<br> Passionate about Technology and Software Engineering with Operations and Management as well as Marketing experience.</h3>
 
-- 🔭 I’m a Senior CSE Student at **Zagazig University**
-
 - 📫 How to reach me **ahmedelmehalawi00@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
