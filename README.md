@@ -1,11 +1,10 @@
 <h1 align="center">Hi 👋, I'm Ahmed Elmehalawi</h1>
-<h3 align="center">A Junior Software Engineer with Computer and Systems Engineering Background with many hats especially in Web Development and Data Analysis.<br>Passionate about Technology and Software Engineering with Operations and Management as well as Marketing Experience.</h3>
+<h3 align="center">A Junior Software Engineer with Computer and Systems Engineering Background with many hats especially in Web Development and Data Analysis.<br>Skilled in DotNet Technologies and Web Development</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ahmedelmehalawi&label=Profile%20views&color=0e75b6&style=flat" alt="ahmedelmehalawi" /> </p>
 
 - 🔭 I’m currently working at **Information Technology Institute (ITI)**
 
-- 📫 How to reach me **ahmedelmehalawi00@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
