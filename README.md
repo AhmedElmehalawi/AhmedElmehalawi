@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Ahmed Elmehalawi</h1>
-<h3 align="center">A Junior Software Engineer with Computer and Systems Engineering Background with many hats especially in Web Development and Data Analysis.<br>Skilled in DotNet Technologies and Web Development</h3>
+<h3 align="center">A Junior Software Engineer with Computer and Systems Engineering Background with many hats. Skilled in DotNet Technologies and Web Development.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ahmedelmehalawi&label=Profile%20views&color=0e75b6&style=flat" alt="ahmedelmehalawi" /> </p>
 
