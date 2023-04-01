@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Ahmed Elmehalawi</h1>
-<h3 align="center">Enthusiastic Junior Software Engineer with many hats. Skilled in Web Development and .NET Technologies with a Bachelor degree focused in Computer and Systems Engineering from Faculty of Engineering, ZU as well as a 9-Month Professional Diploma from Information Technology Institute (ITI) in Systems Development (SD), Professional Web Development & BI Track.</h3>
+<h3 align="center">Enthusiastic Software Engineer with many hats. Skilled in Web Development and .NET Technologies with a Bachelor degree focused in Computer and Systems Engineering from Faculty of Engineering, ZU as well as a 9-Month Professional Diploma from Information Technology Institute (ITI) in Systems Development (SD), Professional Web Development & BI Track.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ahmedelmehalawi&label=Profile%20views&color=0e75b6&style=flat" alt="ahmedelmehalawi" /> </p>
 
