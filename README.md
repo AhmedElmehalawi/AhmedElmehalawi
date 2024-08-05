@@ -1,7 +1,5 @@
 <h1 align="center">Hi 👋, I'm Ahmed Elmehalawi</h1>
 <h3 align="center">Enthusiastic Software Engineer with +3 years of experience in software development with many hats.</h3>
-<p align="center">Skilled in Web Development and .NET technologies with a Bachelor's degree focused in Computer and Systems Engineering as well as a <br>
-9-month Professional Diploma from Information Technology Institute (ITI) in Systems Development (SD), Professional Web Development & BI.</p>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ahmedelmehalawi&label=Profile%20views&color=0e75b6&style=flat" alt="ahmedelmehalawi" /> </p>
 
 - 🌱 I have a Bachelor's degree focused in **Computer and Systems Engineering** From the Faculty of Engineering, ZU.
