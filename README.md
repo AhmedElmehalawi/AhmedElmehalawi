@@ -6,7 +6,7 @@
 - 🔭 I have a 9-month Professional Diploma from **Information Technology Institute - ITI** in Systems Development (SD), Professional Web Development & BI.
 - ⚡ I excel at managing projects from ideation to deployment and delivering exceptional customer experiences.
 - 💬 I'm dedicated to ongoing learning and professional development to remain at the forefront of my field.
-- 👨‍💻 I’m currently working as **Full Stack Engineer (.NET & Angular)**
+- 👨‍💻 I’m currently working as **Senior Backend Engineer (.NET)**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
